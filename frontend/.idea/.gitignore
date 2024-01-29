@@ -8,3 +8,6 @@
 /dataSources.local.xml
 # Zeppelin 무시된 파일
 /ZeppelinRemoteNotebooks/
+
+node_modules/
+
